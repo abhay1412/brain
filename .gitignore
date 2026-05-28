@@ -1,0 +1,17 @@
+```text
+# Environments
+brain_env/
+venv/
+__pycache__/
+*.pyc
+
+# Data & Databases
+*.xml
+*.pkl
+brain_demo_output/
+
+# OS Files
+.DS_Store
+
+# Secrets
+.env
